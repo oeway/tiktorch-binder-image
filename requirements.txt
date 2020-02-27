@@ -1,0 +1,2 @@
+git+git://github.com/bioimage-io/pytorch-bioimage-io.git#egg=pybio.torch
+git+git://github.com/ilastik/tiktorch.git#egg=tiktorch
